@@ -1,4 +1,4 @@
-# HR Attrition Dashboard – Employee Turnover & Workforce Insights
+# HR Attrition Dashboard – Employee Turnover & Workforce Insights ( Interactive Dashboard Creation using MS Excel )
 ## Objective:
 To analyze employee attrition patterns and workforce demographics by visualizing key HR metrics (attrition rate, age, gender, education, marital status, travel, and department) in order to identify trends, improve retention strategies, and support data-driven HR decisions.xcel using this data for HR analytics, attrition prediction, and workforce insights.
 # HR Dataset  
@@ -43,6 +43,19 @@ Displayed KPIs, trends, and patterns to support HR decisions and retention strat
 # Dashboard
 <img width="1495" height="728" alt="Hr_Transformed_Dashboard" src="https://github.com/user-attachments/assets/75d61927-fd62-4c50-8935-491b23caacf2" />
 
+# Project Insights
+
+Attrition Rate is 17% → 492 employees left out of 2,925.
+Sales & R&D Departments show the highest turnover.
+Younger employees (25–34) have the highest attrition compared to older groups.
+Single employees tend to leave more than married or divorced employees.
+Frequent travelers have higher attrition than those who rarely travel.
+Males show slightly higher attrition than females.
+Employees living farther from the workplace are more likely to leave.
+
+ # Final Conclusion
+
+The HR Attrition Dashboard provides clear insights into employee turnover and workforce trends. By analyzing key factors such as age, gender, education, department, and travel, it highlights the main drivers of attrition. These insights enable HR teams to design better retention strategies, improve employee satisfaction, and make data-driven decisions for workforce planning.
 
 
 
